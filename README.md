@@ -13,7 +13,7 @@ Write your design steps here
 
 ## OUTPUT:
 ![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(81).png)
-![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(83).png)
+![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(82).png)
 ![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(84).png)
 
 ## Result:
