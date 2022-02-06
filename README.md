@@ -12,8 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
-
+![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(81).png)
+![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(83).png)
+![OUTPUT](https://github.com/RanjithD18/wireframeproject/blob/main/Screenshot%20(84).png)
 
 ## Result:
 Thus a wire frame is designed for a given website.
